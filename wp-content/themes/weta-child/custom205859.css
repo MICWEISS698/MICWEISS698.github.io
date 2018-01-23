@@ -1,0 +1,61 @@
+.page-id-23878 div#primary {
+    width: 100% !important;
+    background-image: url("https://ottiya.com/wp-content/uploads/2017/12/backgroundimage.png") !important;
+    background-size: cover !important;
+    padding-bottom: 10% !important;
+}
+body:not(.woocommerce-account) .post header.entry-header {
+    display: block !important;
+}
+.ht-social-tab span a{
+  color: #4a4a4a !important;
+  text-decoration: none !important;
+}
+article.bp_members header.entry-header {
+    display: none !important;
+}
+#drafts-personal-li{
+  display:none !important;
+}
+@media only screen and (max-width:480px){
+  .mobile_top div#site-branding {
+      padding-top: 20px !Important;
+  }
+}
+@media only screen and (min-width:481px) and (max-width:500px){
+.mobile_top div#site-branding {
+    padding-top: 30px !important;
+}
+}
+@media only screen and (max-width:1022px){
+.mobile_top .social-search-wrap .header-shop-wrap {
+    margin-top: 20px !important;
+}
+}
+@media only screen and (min-width:1023px){
+  .bp_user .blog-wrap.cf {
+    max-width: 100% !important;
+}
+.bp_members div#item-header-content {
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
+.bp_members div#item-body {
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
+#item-header-cover-image .edit {
+    width: 43% !important;
+}
+#item-header-cover-image .edit {
+    width: 43% !important;
+}
+.hr_recent_bookmarked {
+    width:  80% !important;
+    margin: 0 auto !important;
+    float:  none !important;
+}
+}
+.bp-user #main-wrap div#blog-sidebar {
+    display: none !important;
+}
